@@ -1,3 +1,5 @@
 # Voice-Activated-Smart-Dustbin-A-Steps-Towards-Intelligent-Waste-Management
-IEEE Explore Publication https://ieeexplore.ieee.org/document/11053105
+#IEEE Explore Publication https://ieeexplore.ieee.org/document/11053105
+
+
 This research discusses a voice-controlled trash can system created for use, in roadside areas to improve cleanliness and sanitation efforts while also safeguarding wildlife and encouraging waste management practices. Roadside trash cans often attract animals such as cows and dogs which can accidentally consume materials leading to health concerns. This innovative garbage bin aims to tackle these challenges by limiting access, to authorized individuals using voice activation technology thereby preventing animals from rummaging through the garbage bins. Moreover; the system is designed to offer a hands-free way, for children and the general public to dispose of waste while encouraging an environment. By utilizing Arduino-controlled servo motors and real-time voice recognition technology the bin only opens in response to voice commands. Closes automatically to uphold cleanliness. Preliminary findings indicate prevention of animal meddling and consistent performance in settings suggesting potential improvements, in public health and environmental sanitation.
